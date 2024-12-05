@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Student at KU Leuven
+
 <!--
 **glennnys/glennnys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
